@@ -1,0 +1,116 @@
+! Presentacion
+{
+
+## Estudiante
+^Diego Hernan Figueroa Sevillano^
+
+## Materia
+*Programacion V*
+
+$ https://www.latercera.com/resizer/fxEF6-9DUAFFCBKp1K9G6fuXOec=/380x570/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/7VM6TBOHZNBF7F5JQJVLM37TBQ.jpg
+
+A continuacion mostrare la gramatica que manejo dentro del proyecto
+}
+
+---
+
+
+
+
+! Cabezales
+{
+
+Para los cabezales hago uso del simbolo NUMERAL 
+Estos van del 1 hasta el 5 de la siguiente forma
+
+^Ejemplo^
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+
+^Imagen del markdown^
+
+& /project/img/img1.png
+
+}
+--- 
+
+
+! Texto Bold e Italic
+{
+
+Para los textos puedo hacer uso del Bold y el Italic 
+Esto se puede ver de la siguiente forma
+
+^Ejemplo^
+
+Bold 
+^Hola mi nombre es Alex Paca^
+
+Italic
+*Hola mi nombre es Alex Paca*
+
+^Imagen del markdown^
+
+& /project/img/img2.png
+
+
+}
+--- 
+
+! Links
+{
+
+Para el uso de links hago uso de los simbolos mayor y menor 
+Tengo que encerrar estos para que el codigo lo tome como un link valido
+
+^Ejemplo^
+
+Facebook
+<https://www.facebook.com/>
+
+Twitter
+<https://twitter.com/?lang=es>
+
+^Imagen del markdown^
+
+& /project/img/img3.png
+
+
+}
+--- 
+
+
+! Imagenes
+{
+
+Dentro del codigo manejo dos tipos de imagenes 
+Imagenes locales 
+Imagenes mediante una URL 
+
+^Ejemplo^
+
+Imagen Local
+& /project/img/img1.jpg
+
+Imagen Url
+$ https://cdn.shopify.com/s/files/1/0229/0839/files/bancos_de_imagenes_gratis.jpg?v=1630420628
+
+^Imagen del markdown^
+
+& /project/img/img4.png
+
+
+}
+--- 
+
+! GRACIAS POR SU ATENCION
+{
+
+
+
+}
+--- 
